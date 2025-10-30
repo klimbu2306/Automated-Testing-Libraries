@@ -1,7 +1,5 @@
 # Penguin Test (TDD) + Pickle Module (BDD) Libraries | Luau
 
----
-
 ## 🐧 Penguin Test - TDD Module
 ### Getting Started! 
 1️⃣ In order to use this Luau TDD in Studio, you need to create an empty '⚙️📜 ModuleScript' which will hold the contents of the unit tests you are about to write!
