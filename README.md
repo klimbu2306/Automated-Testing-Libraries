@@ -3,6 +3,8 @@
 - Each library is self-verifying and has it's own meta test cases. 
 - Additionally, there is also an example use case I've put inside of the repo, which demonstrates how the TDD module can be used in a scenario involving programming football physics.
 
+---
+
 ## 🐧 Penguin Test - TDD Module
 ### Getting Started! 
 1️⃣ In order to use this Luau TDD in Studio, you need to create an empty '⚙️📜 ModuleScript' which will hold the contents of the unit tests you are about to write!
@@ -51,4 +53,4 @@ local TestCaseFile = require(game.ServerScriptService.TestCaseFile)
 TestCaseFile:Begin()
 ```
 
-Which essentially covers the basics of how to use the 🐧 PenguinTest module!
+Which essentially covers a basic overview of how to use the 🐧 PenguinTest module!
