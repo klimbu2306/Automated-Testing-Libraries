@@ -1,4 +1,4 @@
-# Penguin Test (TDD) + Pickle Module (BDD) Libraries | Luau
+# Penguin Test Suite (TDD + BDD) & Football Physics Engine Example | Luau
 
 ## 🐧 Penguin Test - TDD Module
 ### Getting Started! 
