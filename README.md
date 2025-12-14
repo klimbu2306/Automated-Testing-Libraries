@@ -1,4 +1,4 @@
-# Penguin Test Suite (TDD + BDD) & Football Physics Engine Example | Luau
+# Penguin Test Suite & Football Physics Engine 
 
 ## 🐧 Penguin Test - TDD Module
 ### Getting Started! 
